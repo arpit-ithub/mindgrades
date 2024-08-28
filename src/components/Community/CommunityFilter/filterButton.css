@@ -1,0 +1,37 @@
+.filter-buttons {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .filter-btn {
+    background-color: transparent;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    padding: 5px 15px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  .write-btn {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    font-size: 15px;
+    margin-left: auto;
+    background-color: #174dcc;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 7px 10px;
+    cursor: pointer;
+  }
+  
+  .write-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .filter-btn:hover {
+    background-color: #f0f0f0;
+  }
+  

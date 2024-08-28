@@ -1,0 +1,15 @@
+.community-container {
+    padding: 20px;
+  }
+  
+  .community-container h2 {
+    font-size: 20px;
+    font-weight: 550;
+    margin-bottom: 20px;
+  }
+  
+  .community-posts {
+    display: flex;
+    flex-direction: column;
+  }
+  

@@ -14,7 +14,7 @@
 
 .navbar-left h1 {
   font-size: 1.2rem;
-  font-weight: normal;
+  font-weight: 650;
   margin: 0;
 }
 
@@ -28,7 +28,7 @@
 .streak-button {
   position: relative;
   padding: 3px 15px;
-  background: linear-gradient(#f7f7f8, #f7f7f8) padding-box, linear-gradient(to right, blue, orange) border-box;  
+  background: linear-gradient(#ffffff, #ffffff) padding-box, linear-gradient(to right, blue, orange) border-box;  
   border-radius: 20px;
   border: 1.5px solid transparent;
   display: flex;
